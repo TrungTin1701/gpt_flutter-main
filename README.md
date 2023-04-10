@@ -1,16 +1,10 @@
-# gpt_flutter
 
-A new Flutter project.
+ChatGPT in Flutter
 
 ## Getting Started
+Nguyễn Trung Tín 19127322
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/63804279/230924402-c01b65ed-ffce-4165-88ec-6dcad48518a8.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![gifit_1681137984606](https://user-images.githubusercontent.com/63804279/230924972-a42e0511-295d-4348-a226-81ee711643e7.gif)
